@@ -1,0 +1,1455 @@
+﻿Log file open, 04/03/23 10:41:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SuperSaiyan
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190050
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin ARUtilities
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin GoogleARCore
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 5980HX with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=SixmonB -epicuserid=5d880f3de3244bcc8422653a8b967c78 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Engine.ini]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2023.04.03-08.41.28:718][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Engine.ini]
+[2023.04.03-08.41.28:719][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Engine.ini]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Engine.ini]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.03-08.41.28:719][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.03-08.41.28:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Engine.ini]
+[2023.04.03-08.41.28:720][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Engine.ini]
+[2023.04.03-08.41.28:723][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:723][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.03-08.41.28:723][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.03-08.41.28:723][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:723][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.03-08.41.28:723][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.03-08.41.28:724][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.03-08.41.28:724][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.03-08.41.28:724][  0]LogHAL: Display: Platform has ~ 32 GB [33722191872 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.03-08.41.28:724][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.03-08.41.28:724][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.03-08.41.28:725][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Engine.ini]
+[2023.04.03-08.41.28:725][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Config/Windows/Editor.ini]
+[2023.04.03-08.41.28:725][  0]LogInit: Computer: LAPTOP-EF7EPO2P
+[2023.04.03-08.41.28:725][  0]LogInit: User: sbsim
+[2023.04.03-08.41.28:725][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.04.03-08.41.28:725][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.03-08.41.28:725][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2023.04.03-08.41.28:725][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.03-08.41.28:725][  0]LogMemory: Process Physical Memory: 154.78 MB used, 154.78 MB peak
+[2023.04.03-08.41.28:725][  0]LogMemory: Process Virtual Memory: 133.77 MB used, 133.77 MB peak
+[2023.04.03-08.41.28:725][  0]LogMemory: Physical Memory: 10281.93 MB used,  21878.06 MB free, 32159.99 MB total
+[2023.04.03-08.41.28:725][  0]LogMemory: Virtual Memory: 134192440.00 MB used,  25286.34 MB free, 134217728.00 MB total
+[2023.04.03-08.41.28:730][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.03-08.41.28:747][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.03-08.41.28:747][  0]LogInit: Using OS detected language (en-US).
+[2023.04.03-08.41.28:747][  0]LogInit: Using OS detected locale (en-US).
+[2023.04.03-08.41.28:751][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.04.03-08.41.28:917][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.03-08.41.28:925][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.03-08.41.28:934][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.03-08.41.28:934][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.03-08.41.29:040][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.04.03-08.41.29:049][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.03-08.41.29:049][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.03-08.41.29:049][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.03-08.41.29:049][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.03-08.41.29:102][  0]LogD3D11RHI:    0. 'AMD Radeon RX 6800M' (Feature Level 11_0)
+[2023.04.03-08.41.29:102][  0]LogD3D11RHI:       11987/0/16079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2023.04.03-08.41.29:137][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.04.03-08.41.29:137][  0]LogD3D11RHI:       496/0/16079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:       0/0/16079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     Description : AMD Radeon RX 6800M
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     DeviceId    : 73df
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     SubSysId    : 16c21043
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     Revision    : 00c3
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     DedicatedVideoMemory : 12569473024 bytes
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     SharedSystemMemory : 16861095936 bytes
+[2023.04.03-08.41.29:139][  0]LogD3D11RHI:     AdapterLuid : 0 79871
+[2023.04.03-08.41.29:145][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.03-08.41.29:145][  0]LogD3D11RHI:     GPU DeviceId: 0x73df (for the marketing name, search the web for "GPU Device Id")
+[2023.04.03-08.41.29:145][  0]LogWindows: EnumDisplayDevices:
+[2023.04.03-08.41.29:146][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.04.03-08.41.29:146][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.04.03-08.41.29:146][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.04.03-08.41.29:146][  0]LogWindows:    3. 'AMD Radeon RX 6800M' (P:0 D:0)
+[2023.04.03-08.41.29:146][  0]LogWindows:    4. 'AMD Radeon RX 6800M' (P:0 D:0)
+[2023.04.03-08.41.29:147][  0]LogWindows:    5. 'AMD Radeon RX 6800M' (P:0 D:0)
+[2023.04.03-08.41.29:147][  0]LogWindows:    6. 'AMD Radeon RX 6800M' (P:0 D:0)
+[2023.04.03-08.41.29:147][  0]LogWindows:    7. 'AMD Radeon RX 6800M' (P:0 D:0)
+[2023.04.03-08.41.29:147][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:5 
+[2023.04.03-08.41.29:147][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 6800M
+[2023.04.03-08.41.29:147][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.02.13 (internal:30.0.13002.13003, unified:30.0.13002.13003)
+[2023.04.03-08.41.29:147][  0]LogD3D11RHI:      Driver Date: 12-15-2021
+[2023.04.03-08.41.29:147][  0]LogRHI: Texture pool is 7853 MB (70% of 11219 MB)
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     Description : AMD Radeon RX 6800M
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     DeviceId    : 73df
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     SubSysId    : 16c21043
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     Revision    : 00c3
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     DedicatedVideoMemory : 12569473024 bytes
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     SharedSystemMemory : 16861095936 bytes
+[2023.04.03-08.41.29:162][  0]LogD3D11RHI:     AdapterLuid : 0 79871
+[2023.04.03-08.41.29:207][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2023.04.03-08.41.29:207][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.03-08.41.29:207][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.03-08.41.29:207][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.03-08.41.29:226][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2023.04.03-08.41.29:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.03-08.41.29:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.03-08.41.29:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.03-08.41.29:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.03-08.41.29:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.03-08.41.29:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.03-08.41.29:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.03-08.41.29:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.03-08.41.29:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.03-08.41.29:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.03-08.41.29:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.03-08.41.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.03-08.41.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.03-08.41.29:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.04.03-08.41.29:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.04.03-08.41.29:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.04.03-08.41.29:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.04.03-08.41.29:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.03-08.41.29:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.03-08.41.29:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.03-08.41.29:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.03-08.41.29:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.03-08.41.29:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.03-08.41.29:594][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.03-08.41.29:600][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.03-08.41.29:623][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.04.03-08.41.29:651][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.03-08.41.29:651][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Intermediate/Shaders/WorkingDirectory/8908/).
+[2023.04.03-08.41.29:652][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sbsim/AppData/Local/Temp/UnrealShaderWorkingDir/6904EDFF44AD286BFA8F55BB1E4E663F/'.
+[2023.04.03-08.41.29:652][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.03-08.41.29:652][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.03-08.41.29:652][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.03-08.41.30:202][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.03-08.41.30:254][  0]LogDerivedDataCache: Loaded boot cache 0.05s 103MB C:/Users/sbsim/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.03-08.41.30:254][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sbsim/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.04.03-08.41.30:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.03-08.41.30:254][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.03-08.41.30:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.03-08.41.30:254][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.03-08.41.30:269][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.03-08.41.30:269][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.03-08.41.30:269][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.03-08.41.30:276][  0]LogDerivedDataCache: Speed tests for C:/Users/sbsim/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.04.03-08.41.30:276][  0]LogDerivedDataCache: Display: Performance to C:/Users/sbsim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1573.34MBs, RandomWriteSpeed=155.17MBs. Assigned SpeedClass 'Local'
+[2023.04.03-08.41.30:276][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sbsim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.03-08.41.30:277][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.03-08.41.30:277][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.03-08.41.30:315][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.03-08.41.30:315][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.03-08.41.30:342][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2023.04.03-08.41.30:588][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.03-08.41.30:588][  0]LogInit: Active device profile: [000001868AFEF200][0000018689B9D680 49] Windows
+[2023.04.03-08.41.30:588][  0]LogInit: Profiles: [000001868AFEF200][0000018689B9D680 49] Windows, [000001868AFB9000][000001868C0A1800 49] WindowsNoEditor, [000001868AFED000][000001868C0A5980 49] WindowsServer, [000001868AFBA800][000001868C0A9B00 49] WindowsClient, [000001868AFEE700][000001868C0AC100 49] IOS, [000001868AFBBD00][000001868C0B0280 49] iPadAir, [000001868AFEFB00][000001868C0B4400 49] iPadAir2, [000001868C4F3500][000001868C0BC6C0 49] IPadPro, [000001868C4F3600][000001868C0B8700 49] iPadAir3, [000001868AFEC700][000001868C0C0880 49] iPadAir4, [000001868C4F1500][000001868C0C4A00 49] iPadMini2, [000001868AFEFF00][000001868C09CB40 49] iPadMini3, [000001868C4F0E00][000001868C0C8C80 49] iPadMini4, [000001868AFEDE00][000001868C0CCDC0 49] iPadMini5, [000001868C53A800][000001868C0E7040 49] iPhone6, [000001868C53A900][000001868C0D1080 49] iPodTouch6, [000001868C4F0800][000001868C119340 49] iPhone7, [000001868C4F0700][000001868C115380 49] iPodTouch7, [000001868C539400][000001868C11D500 49] iPhone5S, [000001868C4F1000][000001868C121680 49] iPhone6Plus, [000001868C53A300][000001868C125800 49] iPhone6S, [000001868C4F2D00][000001868C129980 49] iPhone6SPlus, [000001868C53BC00][000001868C12DB00 49] iPhone7Plus, [000001868C4F2200][000001868C130100 49] iPhoneSE, [000001868C539500][000001868C134280 49] iPhone8, [000001868C4F2600][000001868C138400 49] iPhone8Plus, [000001868C539900][000001868C13C580 49] iPhoneX, [000001868C4F0B00][000001868D150700 49] iPhoneXS, [000001868C53B900][000001868D154880 49] iPhoneXSMax, [000001868C4F3B00][000001868D158A00 49] iPhoneXR, [000001868C539E00][000001868D15CB80 49] iPhone11, [000001868C4F2F00][000001868D160D00 49] iPhone11Pro, [000001868C53BB00][000001868C0E2E40 49] iPhone11ProMax, [000001868C4F3100][000001868D164F80 49] iPhoneSE2, [000001868C53A000][000001868D1690C0 49] iPhone12Mini, [000001868C4F0F00][000001868D171240 49] iPhone12, [000001868C53B500][000001868D1753C0 49] iPhone12Pro, [000001868C4F1200][000001868D179540 49] iPhone12ProMax, [000001868C53AB00][000001868D17D6C0 49] iPadPro105, [000001868C4F1A00][000001868D181840 49] iPadPro129, [000001868C538800][000001868D1859C0 49] iPadPro97, [000001868C4F1900][000001868D189B40 49] iPadPro2_129, [000001868C538E00][000001868D18C140 49] iPad5, [000001868C4F1E00][000001868D1902C0 49] iPad6, [000001868C539100][000001868D194440 49] iPad7, [000001868C4F1F00][000001868D1985C0 49] iPad8, [000001868C539200][000001868D19C740 49] iPadPro11, [000001868C4F1800][000001868D1A08C0 49] iPadPro2_11, [000001868C53BE00][000001868D1A4A40 49] iPadPro3_129, [000001868C4F3700][000001868D1A8BC0 49] iPadPro4_129, [000001868C53AF00][000001868D1ACD40 49] AppleTV, [000001868C4F0900][000001868D1B0EC0 49] AppleTV4K, [000001868C53B800][000001868D16D000 49] TVOS, [000001868C4F1C00][000001868D1B5140 49] Mac, [000001868AFB8600][000001868D1B9280 49] MacClient, [000001868B034800][000001868D1BD3C0 49] MacNoEditor, [000001868AFB8200][000001868D1C5540 49] MacServer, [000001868B035400][000001868D1C96C0 49] Linux, [000001868AFB9C00][000001868D1CD840 49] LinuxAArch64, [000001868B034D00][000001868D1D19C0 49] LinuxNoEditor, [000001868AFB9200][000001868D1D5B40 49] LinuxAArch64NoEditor, [000001868B035A00][000001868D1D8140 49] LinuxClient, [000001868AFB9D00][000001868D1DC2C0 49] LinuxAArch64Client, [000001868B034500][000001868D1E0440 49] LinuxServer, [000001868AFBA300][000001868D1E45C0 49] LinuxAArch64Server, [000001868B034100][000001868D1E8740 49] Android, [000001868AFB8E00][000001868D1EC8C0 49] Android_Low, [000001868B034600][000001868D1F0A40 49] Android_Mid, [000001868AFBAA00][000001868D1F4BC0 49] Android_High, [000001868B035100][000001868D1F8D40 49] Android_Default, [000001868AFB9900][000001868D1FCEC0 49] Android_Adreno4xx, [000001868B034C00][000001868D201040 49] Android_Adreno5xx_Low, [000001868AFB8400][000001868D1C1180 49] Android_Adreno5xx, [000001868B036600][000001868D2052C0 49] Android_Adreno6xx, [000001868C4F3200][000001868D209400 49] Android_Adreno6xx_Vulkan, [000001868C538900][000001868D20D540 49] Android_Mali_T6xx, [000001868C4F2400][000001868D2156C0 49] Android_Mali_T7xx, [000001868C538C00][000001868D219840 49] Android_Mali_T8xx, [000001868C4F0D00][000001868D21D9C0 49] Android_Mali_G71, [000001868C53BA00][000001868D221B40 49] Android_Mali_G72, [000001868C4F3A00][000001868D224140 49] Android_Mali_G72_Vulkan, [000001868C539600][000001868D2282C0 49] Android_Mali_G76, [000001868C4F3800][000001868D22C440 49] Android_Mali_G76_Vulkan, [000001868B035200][000001868D2305C0 49] Android_Mali_G77, [000001868C4F2A00][000001868D234740 49] Android_Mali_G77_Vulkan, [000001868B034B00][000001868D2388C0 49] Android_Mali_G78, [000001868C4F2500][000001868D23CA40 49] Android_Mali_G78_Vulkan, [000001868B036200][000001868D240BC0 49] Android_Mali_G710, [000001868C4F1600][000001868D244D40 49] Android_Mali_G710_Vulkan, [000001868B034E00][000001868D248EC0 49] Android_Vulkan_SM5, [000001868C4F0C00][000001868D24D040 49] Android_PowerVR_G6xxx, [000001868B034400][000001868D2511C0 49] Android_PowerVR_GT7xxx, [000001868C4F0A00][000001868D255340 49] Android_PowerVR_GE8xxx, [000001868B035600][000001868D211480 49] Android_PowerVR_GM9xxx, [000001868C4F0300][000001868D2595C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001868B034F00][000001868D25D700 49] Android_TegraK1, [000001868C4F1100][000001868D265880 49] Android_Unknown_Vulkan, [000001868B034A00][000001868D269A00 49] Lumin, [000001868C4F2E00][000001868D26DB80 49] Lumin_Desktop, [000001868C53BF00][000001868D270180 49] HoloLens, 
+[2023.04.03-08.41.30:683][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C34C86EE5969F45C4C1E647721F4E6D3CA7A9F5B), compiling. 
+[2023.04.03-08.41.30:722][  0]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'High' priority
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 14
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2023.04.03-08.41.31:268][  0]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'High' priority
+[2023.04.03-08.41.32:486][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.03-08.41.32:486][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.03-08.41.32:486][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.03-08.41.32:486][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.03-08.41.32:486][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.03-08.41.32:498][  0]LogNetVersion: SuperSaiyan 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2225330871)
+[2023.04.03-08.41.32:792][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.03-08.41.32:835][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.03-08.41.32:862][  0]LogUObjectArray: 17395 objects as part of root set at end of initial load.
+[2023.04.03-08.41.32:862][  0]LogUObjectAllocator: 4398304 out of 0 bytes used by permanent object pool.
+[2023.04.03-08.41.32:862][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.03-08.41.32:999][  0]LogMaterial: Display: Missing cached shadermap for BaseColor in PCD3D_SM5, Default, SM5 (DDC key hash: 905CE29E70FFD754C18D93D1648BC0134231A79F), compiling. 
+[2023.04.03-08.41.33:004][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:005][  0]LogMaterial: Display: Missing cached shadermap for CustomDepth in PCD3D_SM5, Default, SM5 (DDC key hash: CFEB8A79D30A86A08CA78FA33C79F9CC25E83074), compiling. 
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:011][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:018][  0]LogMaterial: Display: Missing cached shadermap for CustomStencil in PCD3D_SM5, Default, SM5 (DDC key hash: E1BB0AF9A0BB25C8668D96EA49497E9AA3682548), compiling. 
+[2023.04.03-08.41.33:026][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:029][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2023.04.03-08.41.33:029][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2023.04.03-08.41.33:029][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 16
+[2023.04.03-08.41.33:029][  0]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:029][  0]LogMaterial: Display: Missing cached shadermap for FinalImage in PCD3D_SM5, Default, SM5 (DDC key hash: EB9867DC0D7854C70DB38844BC59FA56001CC684), compiling. 
+[2023.04.03-08.41.33:037][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:039][  0]LogMaterial: Display: Missing cached shadermap for LightingModel in PCD3D_SM5, Default, SM5 (DDC key hash: DFD78A40D3FFE6D93257D3E1A395584891832741), compiling. 
+[2023.04.03-08.41.33:046][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:048][  0]LogMaterial: Display: Missing cached shadermap for MaterialAO in PCD3D_SM5, Default, SM5 (DDC key hash: 027C71540E454DF2DD0C2BE276709D4EF4AA8A59), compiling. 
+[2023.04.03-08.41.33:055][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:057][  0]LogMaterial: Display: Missing cached shadermap for Metallic in PCD3D_SM5, Default, SM5 (DDC key hash: 7FAAC486A9BBCA7A738AD7782E228CD972183844), compiling. 
+[2023.04.03-08.41.33:064][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:066][  0]LogMaterial: Display: Missing cached shadermap for Opacity in PCD3D_SM5, Default, SM5 (DDC key hash: 40D2DDA7E7485FD9AB90F52ACDBACF24DCF8FEB4), compiling. 
+[2023.04.03-08.41.33:074][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:076][  0]LogMaterial: Display: Missing cached shadermap for Roughness in PCD3D_SM5, Default, SM5 (DDC key hash: 1F5EF8F941E3B6DA598B17CF2D1DBA770AAD60EC), compiling. 
+[2023.04.03-08.41.33:084][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:087][  0]LogMaterial: Display: Missing cached shadermap for Anisotropy in PCD3D_SM5, Default, SM5 (DDC key hash: 26FC77BD0C5FCECFD1D19FEF7AAF9744A503C892), compiling. 
+[2023.04.03-08.41.33:095][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:097][  0]LogMaterial: Display: Missing cached shadermap for SceneColor in PCD3D_SM5, Default, SM5 (DDC key hash: 63922BAF485033BBBDD9641E8528A47299F11973), compiling. 
+[2023.04.03-08.41.33:106][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:108][  0]LogMaterial: Display: Missing cached shadermap for SceneDepth in PCD3D_SM5, Default, SM5 (DDC key hash: 0E57F3011458987C6989DB4377A55A28AD4EDC88), compiling. 
+[2023.04.03-08.41.33:116][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:118][  0]LogMaterial: Display: Missing cached shadermap for SeparateTranslucencyRGB in PCD3D_SM5, Default, SM5 (DDC key hash: 08D1CB24A5BB5543A522D70F8BDA2A25D16286F5), compiling. 
+[2023.04.03-08.41.33:128][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:131][  0]LogMaterial: Display: Missing cached shadermap for SeparateTranslucencyA in PCD3D_SM5, Default, SM5 (DDC key hash: 90C8AC1E54F4D5C179E70A7B5447A4787CAC1289), compiling. 
+[2023.04.03-08.41.33:143][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:148][  0]LogMaterial: Display: Missing cached shadermap for Specular in PCD3D_SM5, Default, SM5 (DDC key hash: 2D5978F8A8E65411CDD4592C20066C69556F077F), compiling. 
+[2023.04.03-08.41.33:163][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:167][  0]LogMaterial: Display: Missing cached shadermap for SubsurfaceColor in PCD3D_SM5, Default, SM5 (DDC key hash: 973A0D4BFE49FDEE4AE8730BA5C841BB013991F5), compiling. 
+[2023.04.03-08.41.33:180][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:183][  0]LogMaterial: Display: Missing cached shadermap for WorldNormal in PCD3D_SM5, Default, SM5 (DDC key hash: 96187D55EE8896611F97A10B15F9772C70E75BB0), compiling. 
+[2023.04.03-08.41.33:192][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:195][  0]LogMaterial: Display: Missing cached shadermap for WorldTangent in PCD3D_SM5, Default, SM5 (DDC key hash: E2CF8F91E3466D5CA9FC9A9135A25C994BB4EC7E), compiling. 
+[2023.04.03-08.41.33:206][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:211][  0]LogMaterial: Display: Missing cached shadermap for AmbientOcclusion in PCD3D_SM5, Default, SM5 (DDC key hash: F16F3C4DF8A61DFA917353B44DC9BA2BFB3B7C31), compiling. 
+[2023.04.03-08.41.33:242][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:248][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 180
+[2023.04.03-08.41.33:248][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:248][  0]LogMaterial: Display: Missing cached shadermap for CustomDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: A2D2A380BFB56EF905FE10AE0475417AF88FBF32), compiling. 
+[2023.04.03-08.41.33:256][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:260][  0]LogMaterial: Display: Missing cached shadermap for SceneDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 3CAC220440A4876F3F03C3042DFE373659E5AC71), compiling. 
+[2023.04.03-08.41.33:267][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:272][  0]LogMaterial: Display: Missing cached shadermap for Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: D074AF242EAE6A80EA2321A052AE6FBD71410F4A), compiling. 
+[2023.04.03-08.41.33:281][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 190
+[2023.04.03-08.41.33:281][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:281][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:284][  0]LogMaterial: Display: Missing cached shadermap for PreTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 572B3A60C8F4E58A960FD1D14FEB7BDE56E34392), compiling. 
+[2023.04.03-08.41.33:293][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:296][  0]LogMaterial: Display: Missing cached shadermap for PostTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: E1E8CB6A742F30F17E664E02D5604D2515810B07), compiling. 
+[2023.04.03-08.41.33:304][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:336][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 210
+[2023.04.03-08.41.33:336][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:424][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 200
+[2023.04.03-08.41.33:424][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 190
+[2023.04.03-08.41.33:424][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 180
+[2023.04.03-08.41.33:424][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 170
+[2023.04.03-08.41.33:424][  0]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:424][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 160
+[2023.04.03-08.41.33:424][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:424][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: FCF9F3DE4E9720F9A385B78972A893E2 | Instance: CEA0FA36448DF481A2341E8D64930049 (LAPTOP-EF7EPO2P-8908).
+[2023.04.03-08.41.33:678][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 150
+[2023.04.03-08.41.33:679][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 140
+[2023.04.03-08.41.33:679][  0]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.33:679][  0]LogPython: Using Python 3.7.7
+[2023.04.03-08.41.34:655][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 130
+[2023.04.03-08.41.34:655][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.34:655][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 120
+[2023.04.03-08.41.34:655][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.34:655][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 110
+[2023.04.03-08.41.34:655][  0]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.34:692][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.03-08.41.34:704][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.03-08.41.35:138][  0]SourceControl: Source control is disabled
+[2023.04.03-08.41.35:138][  0]SourceControl: Source control is disabled
+[2023.04.03-08.41.35:145][  0]SourceControl: Source control is disabled
+[2023.04.03-08.41.35:168][  0]LogUProjectInfo: Found projects:
+[2023.04.03-08.41.35:175][  0]SourceControl: Source control is disabled
+[2023.04.03-08.41.35:199][  0]SourceControl: Source control is disabled
+[2023.04.03-08.41.35:416][  0]LogMaterial: Display: Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5 (DDC key hash: 5D4E609917B24965B8D66FC3EE2343B98509D746), compiling. 
+[2023.04.03-08.41.35:423][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.35:584][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.03-08.41.35:613][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.03-08.41.35:644][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.03-08.41.35:644][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.03-08.41.35:928][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 111
+[2023.04.03-08.41.35:928][  0]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.35:928][  0]LogCollectionManager: Loaded 0 collections in 0.003044 seconds
+[2023.04.03-08.41.35:975][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Collections/' took 0.00s
+[2023.04.03-08.41.35:975][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/Developers/sbsim/Collections/' took 0.00s
+[2023.04.03-08.41.35:975][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/Collections/' took 0.00s
+[2023.04.03-08.41.35:975][  0]LogOcInput: OculusInput pre-init called
+[2023.04.03-08.41.36:279][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 102
+[2023.04.03-08.41.36:279][  0]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:279][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 94
+[2023.04.03-08.41.36:279][  0]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:279][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 86
+[2023.04.03-08.41.36:279][  0]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:279][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 79
+[2023.04.03-08.41.36:279][  0]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:279][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshot in PCD3D_SM5, Default, SM5 (DDC key hash: D9D68C7410B77A07D18AF4F37A40146C9B66FE7A), compiling. 
+[2023.04.03-08.41.36:293][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:296][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshotMask in PCD3D_SM5, Default, SM5 (DDC key hash: 12DEF6EEECCC9AD88EDC542C6E90E6B639B62D40), compiling. 
+[2023.04.03-08.41.36:309][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:314][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshotCaptureRegion in PCD3D_SM5, Default, SM5 (DDC key hash: 5EE3B2D81EDF1904CD54E1025E753D4D3EFF3EC1), compiling. 
+[2023.04.03-08.41.36:323][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:368][  0]LogEngine: Initializing Engine...
+[2023.04.03-08.41.36:475][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 114
+[2023.04.03-08.41.36:475][  0]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:475][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 105
+[2023.04.03-08.41.36:475][  0]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:475][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 96
+[2023.04.03-08.41.36:476][  0]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:476][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.04.03-08.41.36:476][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.03-08.41.36:477][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.03-08.41.36:479][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.03-08.41.36:681][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 88
+[2023.04.03-08.41.36:681][  0]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:681][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 81
+[2023.04.03-08.41.36:681][  0]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:681][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 74
+[2023.04.03-08.41.36:681][  0]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:681][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.03-08.41.36:694][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.03-08.41.36:719][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.03-08.41.36:725][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.03-08.41.36:726][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.03-08.41.36:726][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.03-08.41.36:727][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.03-08.41.36:727][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-08.41.36:727][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-08.41.36:727][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-08.41.36:727][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-08.41.36:727][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-08.41.36:727][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.03-08.41.36:727][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-08.41.36:727][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-08.41.36:727][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-08.41.36:727][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-08.41.36:727][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-08.41.36:727][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.03-08.41.36:749][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.03-08.41.36:749][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.03-08.41.36:795][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.03-08.41.36:795][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-08.41.36:798][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-08.41.36:798][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-08.41.36:799][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.03-08.41.36:799][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.03-08.41.36:799][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.03-08.41.36:802][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.03-08.41.36:802][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.03-08.41.36:802][  0]LogInit: FAudioDevice initialized.
+[2023.04.03-08.41.36:802][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.03-08.41.36:802][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.03-08.41.36:942][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 68
+[2023.04.03-08.41.36:942][  0]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.36:942][  0]LogDerivedDataCache: Saved boot cache 0.14s 103MB C:/Users/sbsim/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.03-08.41.36:943][  0]LogInit: Texture streaming: Enabled
+[2023.04.03-08.41.36:972][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.04.03-08.41.36:979][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.03-08.41.36:979][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.03-08.41.36:981][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.03-08.41.37:019][  0]LogInit: Transaction tracking system initialized
+[2023.04.03-08.41.37:065][  0]BlueprintLog: New page: Editor Load
+[2023.04.03-08.41.37:187][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 62
+[2023.04.03-08.41.37:187][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.37:187][  0]LocalizationService: Localization service is disabled
+[2023.04.03-08.41.37:227][  0]TimingProfiler: Initialize
+[2023.04.03-08.41.37:227][  0]TimingProfiler: OnSessionChanged
+[2023.04.03-08.41.37:227][  0]LoadingProfiler: Initialize
+[2023.04.03-08.41.37:227][  0]LoadingProfiler: OnSessionChanged
+[2023.04.03-08.41.37:227][  0]NetworkingProfiler: Initialize
+[2023.04.03-08.41.37:227][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.03-08.41.37:227][  0]MemoryProfiler: Initialize
+[2023.04.03-08.41.37:227][  0]MemoryProfiler: OnSessionChanged
+[2023.04.03-08.41.37:506][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.04.03-08.41.37:507][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.03-08.41.37:893][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/' took 0.01s
+[2023.04.03-08.41.38:086][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.03-08.41.38:093][  0]SourceControl: Source control is disabled
+[2023.04.03-08.41.38:094][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.278
+[2023.04.03-08.41.38:099][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.03-08.41.38:100][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.03-08.41.38:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.38:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.03-08.41.38:113][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.04.03-08.41.38:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.04.03-08.41.38:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.04.03-08.41.38:149][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 57
+[2023.04.03-08.41.38:149][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.38:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.04.03-08.41.38:159][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 52
+[2023.04.03-08.41.38:159][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.38:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.04.03-08.41.38:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.04.03-08.41.38:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.04.03-08.41.38:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.04.03-08.41.38:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.04.03-08.41.38:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.04.03-08.41.38:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.04.03-08.41.38:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.04.03-08.41.38:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.04.03-08.41.38:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.04.03-08.41.38:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.04.03-08.41.38:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.04.03-08.41.38:286][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 47
+[2023.04.03-08.41.38:286][  0]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.38:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.04.03-08.41.38:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.04.03-08.41.38:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Fire01.uasset"
+[2023.04.03-08.41.38:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.04.03-08.41.38:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.04.03-08.41.38:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.04.03-08.41.38:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Light01.uasset"
+[2023.04.03-08.41.38:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.04.03-08.41.38:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Light02.uasset"
+[2023.04.03-08.41.38:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.04.03-08.41.38:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.04.03-08.41.38:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.04.03-08.41.38:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.04.03-08.41.38:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.04.03-08.41.38:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.04.03-08.41.38:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.04.03-08.41.38:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.04.03-08.41.38:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.04.03-08.41.38:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Steam01.uasset"
+[2023.04.03-08.41.38:506][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 43
+[2023.04.03-08.41.38:506][  0]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.38:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.04.03-08.41.38:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.04.03-08.41.38:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.04.03-08.41.38:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.04.03-08.41.38:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.04.03-08.41.38:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.04.03-08.41.38:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.04.03-08.41.38:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.04.03-08.41.38:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.04.03-08.41.38:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.04.03-08.41.38:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.04.03-08.41.38:617][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 39
+[2023.04.03-08.41.38:617][  0]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.38:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.04.03-08.41.38:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.04.03-08.41.38:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.04.03-08.41.38:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.04.03-08.41.38:674][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 35
+[2023.04.03-08.41.38:674][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.38:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.04.03-08.41.38:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.04.03-08.41.38:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.04.03-08.41.38:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.04.03-08.41.38:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.04.03-08.41.38:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.04.03-08.41.38:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.04.03-08.41.38:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Maps/StarterMap.umap"
+[2023.04.03-08.41.38:890][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 32
+[2023.04.03-08.41.38:890][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.38:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.04.03-08.41.38:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.04.03-08.41.38:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.04.03-08.41.38:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.04.03-08.41.38:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.04.03-08.41.38:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.04.03-08.41.38:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.04.03-08.41.38:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.04.03-08.41.38:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.04.03-08.41.38:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.04.03-08.41.38:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.04.03-08.41.39:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.04.03-08.41.39:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.04.03-08.41.39:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.04.03-08.41.39:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.04.03-08.41.39:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.04.03-08.41.39:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.04.03-08.41.39:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.04.03-08.41.39:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.04.03-08.41.39:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.04.03-08.41.39:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.04.03-08.41.39:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.04.03-08.41.39:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.04.03-08.41.39:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.04.03-08.41.39:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.04.03-08.41.39:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.04.03-08.41.39:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.04.03-08.41.39:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.04.03-08.41.39:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.04.03-08.41.39:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.04.03-08.41.39:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.04.03-08.41.39:218][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 29
+[2023.04.03-08.41.39:218][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.04.03-08.41.39:227][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2023.04.03-08.41.39:227][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.04.03-08.41.39:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.04.03-08.41.39:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.04.03-08.41.39:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.04.03-08.41.39:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.04.03-08.41.39:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.04.03-08.41.39:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.04.03-08.41.39:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.04.03-08.41.39:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.04.03-08.41.39:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.04.03-08.41.39:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.04.03-08.41.39:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.04.03-08.41.39:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.04.03-08.41.39:358][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 23
+[2023.04.03-08.41.39:358][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2023.04.03-08.41.39:358][  0]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.04.03-08.41.39:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.04.03-08.41.39:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.04.03-08.41.39:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.04.03-08.41.39:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.04.03-08.41.39:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.04.03-08.41.39:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.04.03-08.41.39:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.04.03-08.41.39:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.04.03-08.41.39:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.04.03-08.41.39:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.04.03-08.41.39:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.04.03-08.41.39:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.04.03-08.41.39:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.04.03-08.41.39:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.04.03-08.41.39:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.04.03-08.41.39:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.04.03-08.41.39:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.04.03-08.41.39:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.04.03-08.41.39:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.04.03-08.41.39:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Door.uasset"
+[2023.04.03-08.41.39:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.04.03-08.41.39:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.04.03-08.41.39:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.04.03-08.41.39:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.04.03-08.41.39:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2023.04.03-08.41.39:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.04.03-08.41.39:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.04.03-08.41.39:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.04.03-08.41.39:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.04.03-08.41.39:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.04.03-08.41.39:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.04.03-08.41.39:699][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2023.04.03-08.41.39:700][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.04.03-08.41.39:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.04.03-08.41.39:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.04.03-08.41.39:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.04.03-08.41.39:742][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 17
+[2023.04.03-08.41.39:742][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.04.03-08.41.39:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.04.03-08.41.39:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.04.03-08.41.39:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2023.04.03-08.41.39:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2023.04.03-08.41.39:792][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2023.04.03-08.41.39:792][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.04.03-08.41.39:800][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2023.04.03-08.41.39:801][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.04.03-08.41.39:809][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2023.04.03-08.41.39:809][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.04.03-08.41.39:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.04.03-08.41.39:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.04.03-08.41.39:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.04.03-08.41.39:845][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2023.04.03-08.41.39:845][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.04.03-08.41.39:859][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2023.04.03-08.41.39:859][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.39:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.04.03-08.41.39:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.04.03-08.41.39:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.04.03-08.41.39:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.04.03-08.41.39:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.04.03-08.41.39:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.04.03-08.41.39:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.04.03-08.41.39:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.04.03-08.41.39:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.04.03-08.41.39:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.04.03-08.41.39:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.04.03-08.41.39:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.04.03-08.41.39:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.04.03-08.41.40:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.04.03-08.41.40:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.04.03-08.41.40:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.04.03-08.41.40:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.04.03-08.41.40:057][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2023.04.03-08.41.40:057][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.40:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.04.03-08.41.40:080][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2023.04.03-08.41.40:080][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.40:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.04.03-08.41.40:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.04.03-08.41.40:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.04.03-08.41.40:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.04.03-08.41.40:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.04.03-08.41.40:197][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2023.04.03-08.41.40:197][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2023.04.03-08.41.40:197][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2023.04.03-08.41.40:197][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.40:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.04.03-08.41.40:219][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2023.04.03-08.41.40:219][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.40:219][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.04.03-08.41.40:219][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.40:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.04.03-08.41.40:248][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2023.04.03-08.41.40:248][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-08.41.40:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.04.03-08.41.40:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.04.03-08.41.40:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.04.03-08.41.40:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.04.03-08.41.40:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.04.03-08.41.40:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.04.03-08.41.40:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.04.03-08.41.40:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.04.03-08.41.40:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.04.03-08.41.40:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.04.03-08.41.40:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.04.03-08.41.40:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.04.03-08.41.40:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.04.03-08.41.40:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.04.03-08.41.40:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.04.03-08.41.40:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.04.03-08.41.40:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.04.03-08.41.40:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.04.03-08.41.40:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.04.03-08.41.40:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.04.03-08.41.40:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.04.03-08.41.40:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.04.03-08.41.40:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.04.03-08.41.40:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.04.03-08.41.40:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.04.03-08.41.40:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.04.03-08.41.40:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.04.03-08.41.40:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.04.03-08.41.40:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.04.03-08.41.40:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.04.03-08.41.40:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.04.03-08.41.40:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.04.03-08.41.40:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.04.03-08.41.40:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.04.03-08.41.40:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.04.03-08.41.40:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.04.03-08.41.40:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.04.03-08.41.40:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.04.03-08.41.40:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.04.03-08.41.40:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.04.03-08.41.40:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.04.03-08.41.40:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.04.03-08.41.40:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.04.03-08.41.40:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.04.03-08.41.40:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.04.03-08.41.40:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.04.03-08.41.40:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.04.03-08.41.40:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.04.03-08.41.41:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.04.03-08.41.41:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.04.03-08.41.41:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.04.03-08.41.41:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.04.03-08.41.41:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.04.03-08.41.41:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.04.03-08.41.41:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.04.03-08.41.41:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.04.03-08.41.41:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.04.03-08.41.41:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.04.03-08.41.41:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.04.03-08.41.41:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.04.03-08.41.41:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.04.03-08.41.41:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.04.03-08.41.41:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.04.03-08.41.41:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.04.03-08.41.41:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.04.03-08.41.41:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.04.03-08.41.41:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.04.03-08.41.41:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.04.03-08.41.41:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.04.03-08.41.41:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.04.03-08.41.41:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.04.03-08.41.41:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.04.03-08.41.41:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.04.03-08.41.41:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.04.03-08.41.41:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.04.03-08.41.41:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.04.03-08.41.41:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.04.03-08.41.41:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.04.03-08.41.41:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.04.03-08.41.41:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.04.03-08.41.41:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.04.03-08.41.41:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.04.03-08.41.41:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.04.03-08.41.41:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.04.03-08.41.41:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.04.03-08.41.41:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.04.03-08.41.41:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.04.03-08.41.41:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.04.03-08.41.41:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.04.03-08.41.41:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.04.03-08.41.41:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.04.03-08.41.41:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.04.03-08.41.41:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.04.03-08.41.41:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.04.03-08.41.41:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.04.03-08.41.41:678][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2023.04.03-08.41.41:680][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.04.03-08.41.41:802][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2023.04.03-08.41.41:942][  0]LogSavePackage: Moving '../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Saved/Floor_400x4002C4A423146DFCD6E27839F9D2CCDA233.tmp' to '../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2023.04.03-08.41.41:943][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2023.04.03-08.41.41:944][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/HandheldAR/Maps/HandheldARBlankMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.03-08.41.41:945][  0]LightingResults: New page: Lighting Build
+[2023.04.03-08.41.41:946][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-08.41.41:946][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-08.41.41:946][  0]MapCheck: New page: Map Check
+[2023.04.03-08.41.41:946][  0]LightingResults: New page: Lighting Build
+[2023.04.03-08.41.41:950][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-08.41.41:953][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.03-08.41.42:395][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'HandheldARBlankMap'.
+[2023.04.03-08.41.42:396][  0]LogAIModule: Creating AISystem for world HandheldARBlankMap
+[2023.04.03-08.41.42:399][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.03-08.41.42:408][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.03-08.41.42:408][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.03-08.41.42:408][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2023.04.03-08.41.42:408][  0]LogFileHelpers: Loading map 'HandheldARBlankMap' took 0.465
+[2023.04.03-08.41.42:410][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.594
+[2023.04.03-08.41.42:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-08.41.42:559][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-08.41.42:566][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-08.41.42:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-08.41.42:618][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3854 classes and 941 folders.
+[2023.04.03-08.41.42:625][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.03-08.41.42:626][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.03-08.41.42:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.03-08.41.42:626][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:626][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.04.03-08.41.42:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.04.03-08.41.42:627][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.03-08.41.42:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.03-08.41.42:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.04.03-08.41.42:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.04.03-08.41.42:627][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.04.03-08.41.42:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.04.03-08.41.42:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.04.03-08.41.42:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.03-08.41.42:628][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:628][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.03-08.41.42:628][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.03-08.41.42:628][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:628][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.04.03-08.41.42:628][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.03-08.41.42:628][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:628][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.04.03-08.41.42:628][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.03-08.41.42:629][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:629][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.04.03-08.41.42:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.03-08.41.42:629][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:629][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.04.03-08.41.42:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.03-08.41.42:629][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:629][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.04.03-08.41.42:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:630][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.03-08.41.42:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.03-08.41.42:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.04.03-08.41.42:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:630][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.03-08.41.42:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.03-08.41.42:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.04.03-08.41.42:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:631][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.03-08.41.42:631][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:631][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.03-08.41.42:631][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:631][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.04.03-08.41.42:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:631][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.03-08.41.42:631][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:631][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.03-08.41.42:631][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:631][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.04.03-08.41.42:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:631][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.03-08.41.42:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.03-08.41.42:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.04.03-08.41.42:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.03-08.41.42:632][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.03-08.41.42:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.03-08.41.42:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.04.03-08.41.42:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.04.03-08.41.42:632][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.03-08.41.42:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.03-08.41.42:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.04.03-08.41.42:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.03-08.41.42:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.04.03-08.41.42:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.03-08.41.42:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.04.03-08.41.42:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.03-08.41.42:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.04.03-08.41.42:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:634][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.03-08.41.42:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.03-08.41.42:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.04.03-08.41.42:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:634][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.03-08.41.42:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.03-08.41.42:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.04.03-08.41.42:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.04.03-08.41.42:634][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.03-08.41.42:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.03-08.41.42:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.04.03-08.41.42:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:635][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.04.03-08.41.42:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.04.03-08.41.42:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.04.03-08.41.42:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.03-08.41.42:635][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.03-08.41.42:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.03-08.41.42:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.04.03-08.41.42:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:636][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.03-08.41.42:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:636][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.03-08.41.42:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.04.03-08.41.42:636][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:636][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.03-08.41.42:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.03-08.41.42:636][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.03-08.41.42:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.03-08.41.42:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.04.03-08.41.42:636][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.03-08.41.42:674][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.03-08.41.42:680][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.04.03-08.41.42:833][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.03-08.41.42:840][  0]LogSlate: Took 0.006142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.03-08.41.42:841][  0]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.03-08.41.42:924][  0]LogRenderer: Reallocating scene render targets to support 1016x492 Format 10 NumSamples 1 (Frame:1).
+[2023.04.03-08.41.43:176][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.03-08.41.43:177][  0]LogLoad: (Engine Initialization) Total time: 15.36 seconds
+[2023.04.03-08.41.43:177][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.03-08.41.43:214][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2023.04.03-08.41.43:214][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.04.03-08.41.43:235][  0]LogAssetRegistry: Asset discovery search completed in 12.8945 seconds
+[2023.04.03-08.41.43:239][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.04.03-08.41.43:239][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.03-08.41.43:262][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.03-08.42.47:521][281]LogSlate: Window 'Plugins' being destroyed
+[2023.04.03-08.42.47:525][281]LogSlate: Window 'Plugins' being destroyed
+[2023.04.03-08.42.47:525][281]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.04.03-08.42.55:231][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.04.03-08.42.55:250][743]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HandheldAR/Maps/HandheldARBlankMap.HandheldARBlankMap
+[2023.04.03-08.42.55:251][743]Cmd: MAP LOAD FILE="../../../../../../Users/sbsim/Documents/Unreal Projects/SuperSaiyan/Content/HandheldAR/Maps/HandheldARBlankMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.03-08.42.55:251][743]LightingResults: New page: Lighting Build
+[2023.04.03-08.42.55:251][743]LoadErrors: New page: Loading map: HandheldARBlankMap.umap
+[2023.04.03-08.42.55:252][743]LogWorld: UWorld::CleanupWorld for HandheldARBlankMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-08.42.55:252][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-08.42.55:252][743]MapCheck: New page: Map Check
+[2023.04.03-08.42.55:252][743]LightingResults: New page: Lighting Build
+[2023.04.03-08.42.55:255][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-08.42.55:257][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.04.03-08.42.55:258][743]LogAudio: Display: Audio Device (ID: 1) registered with world 'HandheldARBlankMap'.
+[2023.04.03-08.42.55:259][743]LogAIModule: Creating AISystem for world HandheldARBlankMap
+[2023.04.03-08.42.55:261][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.03-08.42.55:265][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.03-08.42.55:266][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.03-08.42.55:266][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2023.04.03-08.42.55:266][743]LogFileHelpers: Loading map 'HandheldARBlankMap' took 0.016
+[2023.04.03-08.43.51:541][890]LogSlate: Window 'Plugins' being destroyed
+[2023.04.03-08.43.51:544][890]LogSlate: Window 'Plugins' being destroyed
+[2023.04.03-08.43.51:544][890]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
