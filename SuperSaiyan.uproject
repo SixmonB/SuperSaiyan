@@ -19,6 +19,14 @@
 				"Win64",
 				"Mac"
 			]
+		},
+		{
+			"Name": "GoogleARCoreServices",
+			"Enabled": true
+		},
+		{
+			"Name": "AndroidCamera",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
