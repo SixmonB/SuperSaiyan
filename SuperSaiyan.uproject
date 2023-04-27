@@ -27,6 +27,10 @@
 		{
 			"Name": "AndroidCamera",
 			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
